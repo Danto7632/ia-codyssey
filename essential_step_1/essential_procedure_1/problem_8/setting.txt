@@ -1,0 +1,9 @@
+# info 항목:
+# operating_system, operating_system_version, cpu_type,
+# cpu_core_count, memory_size
+
+# load 항목:
+# cpu_usage, memory_usage
+
+info = operating_system, cpu_type, memory_size
+load = cpu_usage, memory_usage
